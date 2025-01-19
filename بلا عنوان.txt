@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TikTok Data Collector</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>TikTok Data Collector</h1>
+    </header>
+    <main>
+        <h2>Welcome to TikTok Data Collector</h2>
+        <p>TikTok Data Collector is a tool designed to gather and analyze TikTok video performance metrics. Our goal is to help you make data-driven decisions to optimize your content and marketing strategies.</p>
+        <h3>Features:</h3>
+        <ul>
+            <li>Real-time video performance tracking</li>
+            <li>Detailed analytics and reporting</li>
+            <li>Easy integration with other tools</li>
+        </ul>
+        <p>For more information about our service policies, please visit the links below:</p>
+        <ul>
+            <li><a href="terms-of-service.html" target="_blank">Terms of Service</a></li>
+            <li><a href="privacy-policy.html" target="_blank">Privacy Policy</a></li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2025 TikTok Data Collector. All rights reserved.</p>
+    </footer>
+</body>
+</html>
